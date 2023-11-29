@@ -1,0 +1,81 @@
+--2023-08-21 08:07:10--  https://github.com/robbyrussell/oh-my-zsh/raw/master/tools/install.sh
+Resolving github.com (github.com)... 20.205.243.166
+Connecting to github.com (github.com)|20.205.243.166|:443... failed: Connection timed out.
+Retrying.
+
+--2023-08-21 08:09:20--  (try: 2)  https://github.com/robbyrussell/oh-my-zsh/raw/master/tools/install.sh
+Connecting to github.com (github.com)|20.205.243.166|:443... failed: Connection timed out.
+Retrying.
+
+--2023-08-21 08:11:35--  (try: 3)  https://github.com/robbyrussell/oh-my-zsh/raw/master/tools/install.sh
+Connecting to github.com (github.com)|20.205.243.166|:443... failed: Connection timed out.
+Retrying.
+
+--2023-08-21 08:13:49--  (try: 4)  https://github.com/robbyrussell/oh-my-zsh/raw/master/tools/install.sh
+Connecting to github.com (github.com)|20.205.243.166|:443... failed: Connection timed out.
+Retrying.
+
+--2023-08-21 08:16:03--  (try: 5)  https://github.com/robbyrussell/oh-my-zsh/raw/master/tools/install.sh
+Connecting to github.com (github.com)|20.205.243.166|:443... failed: Connection timed out.
+Retrying.
+
+--2023-08-21 08:18:22--  (try: 6)  https://github.com/robbyrussell/oh-my-zsh/raw/master/tools/install.sh
+Connecting to github.com (github.com)|20.205.243.166|:443... failed: Connection timed out.
+Retrying.
+
+--2023-08-21 08:20:41--  (try: 7)  https://github.com/robbyrussell/oh-my-zsh/raw/master/tools/install.sh
+Connecting to github.com (github.com)|20.205.243.166|:443... failed: Connection timed out.
+Retrying.
+
+--2023-08-21 08:23:01--  (try: 8)  https://github.com/robbyrussell/oh-my-zsh/raw/master/tools/install.sh
+Connecting to github.com (github.com)|20.205.243.166|:443... failed: Connection timed out.
+Retrying.
+
+--2023-08-21 08:25:20--  (try: 9)  https://github.com/robbyrussell/oh-my-zsh/raw/master/tools/install.sh
+Connecting to github.com (github.com)|20.205.243.166|:443... failed: Connection timed out.
+Retrying.
+
+--2023-08-21 08:27:39--  (try:10)  https://github.com/robbyrussell/oh-my-zsh/raw/master/tools/install.sh
+Connecting to github.com (github.com)|20.205.243.166|:443... failed: Connection timed out.
+Retrying.
+
+--2023-08-21 08:29:58--  (try:11)  https://github.com/robbyrussell/oh-my-zsh/raw/master/tools/install.sh
+Connecting to github.com (github.com)|20.205.243.166|:443... failed: Connection timed out.
+Retrying.
+
+--2023-08-21 08:32:22--  (try:12)  https://github.com/robbyrussell/oh-my-zsh/raw/master/tools/install.sh
+Connecting to github.com (github.com)|20.205.243.166|:443... failed: Connection timed out.
+Retrying.
+
+--2023-08-21 08:34:45--  (try:13)  https://github.com/robbyrussell/oh-my-zsh/raw/master/tools/install.sh
+Connecting to github.com (github.com)|20.205.243.166|:443... failed: Connection timed out.
+Retrying.
+
+--2023-08-21 08:37:08--  (try:14)  https://github.com/robbyrussell/oh-my-zsh/raw/master/tools/install.sh
+Connecting to github.com (github.com)|20.205.243.166|:443... failed: Connection timed out.
+Retrying.
+
+--2023-08-21 08:39:32--  (try:15)  https://github.com/robbyrussell/oh-my-zsh/raw/master/tools/install.sh
+Connecting to github.com (github.com)|20.205.243.166|:443... failed: Connection timed out.
+Retrying.
+
+--2023-08-21 08:41:55--  (try:16)  https://github.com/robbyrussell/oh-my-zsh/raw/master/tools/install.sh
+Connecting to github.com (github.com)|20.205.243.166|:443... failed: Connection timed out.
+Retrying.
+
+--2023-08-21 08:44:18--  (try:17)  https://github.com/robbyrussell/oh-my-zsh/raw/master/tools/install.sh
+Connecting to github.com (github.com)|20.205.243.166|:443... failed: Connection timed out.
+Retrying.
+
+--2023-08-21 08:46:42--  (try:18)  https://github.com/robbyrussell/oh-my-zsh/raw/master/tools/install.sh
+Connecting to github.com (github.com)|20.205.243.166|:443... failed: Connection timed out.
+Retrying.
+
+--2023-08-21 08:49:05--  (try:19)  https://github.com/robbyrussell/oh-my-zsh/raw/master/tools/install.sh
+Connecting to github.com (github.com)|20.205.243.166|:443... failed: Connection timed out.
+Retrying.
+
+--2023-08-21 08:51:29--  (try:20)  https://github.com/robbyrussell/oh-my-zsh/raw/master/tools/install.sh
+Connecting to github.com (github.com)|20.205.243.166|:443... failed: Connection timed out.
+Giving up.
+
